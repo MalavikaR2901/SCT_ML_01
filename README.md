@@ -5,7 +5,7 @@ This is the first task of my internship
 Implement a linear regression model to predict the prices of :
 
 * Houses based on their square footage.
-* No : of Bedroom.
-* No : of Bathroom.
+* Number of Bedrooms.
+* Number of Bathrooms.
 
-For this task I follow House Price Dataset  by kaggle.
+For this task, I followed the <ins>House Price Dataset</ins> provided  by Kaggle.
